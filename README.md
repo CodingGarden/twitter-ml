@@ -8,7 +8,7 @@ https://hashtag-blessed.surge.sh/
 
 ```sh
 npm install
-cp .env .env.sample # update with your values
+cp .env.sample .env # update with your values
 ```
 
 ### Run
